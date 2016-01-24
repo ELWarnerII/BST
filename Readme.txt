@@ -1,10 +1,10 @@
-Project 2 - Binary Search Tree Dictionary ADT
+Binary Search Tree Dictionary ADT
 
 **********************
 *     Java Files     *
 **********************
 
-There are only two files necessary to for running this program:
+There are only two files necessary for running this program:
 Node.java
 BST.java
 
